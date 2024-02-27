@@ -15,3 +15,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NextJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+![Bruno Monteiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunoxd23&show_icons=true&theme=dracula)
