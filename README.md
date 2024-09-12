@@ -18,4 +18,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Bruno Monteiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunoxd23&show_icons=true&theme=dracula)
+![Bruno Monteiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunoxd23&show_icons=true&theme=dracula)
