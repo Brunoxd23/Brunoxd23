@@ -29,7 +29,8 @@
 <h3>⚙️ Back-end e banco de dados</h3>
 
 - **Node.js**
-- **NestJS**
+- **MongoDB**
+- - **MySQL**
 - **PostgreSQL**
 
 ---
