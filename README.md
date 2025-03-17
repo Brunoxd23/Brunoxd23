@@ -30,7 +30,7 @@
 
 - **Node.js**
 - **MongoDB**
-- - **MySQL**
+- **MySQL**
 - **PostgreSQL**
 
 ---
