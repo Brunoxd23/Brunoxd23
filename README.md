@@ -25,6 +25,7 @@
 - **TypeScript**
 - **React**
 - **React Native**
+- **Next.js**
 
 <h3>⚙️ Back-end e banco de dados</h3>
 
