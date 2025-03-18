@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB" />
+  <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=000000" />
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" />
 </p>
 
