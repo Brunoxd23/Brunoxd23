@@ -55,14 +55,6 @@
 
 ---
 
-<h2>📈 Gráfico de Contribuições</h2>
-
-<p align="center">
-  <img src="https://github.com/Brunoxd23/Brunoxd23/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <h2>📫 Entre em contato</h2>
 
 <p align="center">
