@@ -58,6 +58,6 @@
 <h2>📫 Entre em contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bruno-monteiro-52b174255/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:monteiro_100@outlook.pt" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bruno-monteiro-52b174255/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:monteiro_100@outlook.pt" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
