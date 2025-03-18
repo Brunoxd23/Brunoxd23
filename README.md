@@ -49,7 +49,7 @@
 <h2>📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunoxd23&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Bruno Monteiro" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunoxd23&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Bruno Monteiro" /><
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoxd23&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
