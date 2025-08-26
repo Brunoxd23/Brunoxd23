@@ -54,9 +54,6 @@ Sou um desenvolvedor full stack com experiência em construir aplicações web e
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunoxd23&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub de Bruno Monteiro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoxd23&layout=compact&theme=dracula&count_private=true" alt="Linguagens mais usadas" />
-  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunoxd23&theme=dracula" alt="Resumo do perfil" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunoxd23&theme=dracula" alt="Linguagem com mais commits" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunoxd23&theme=dracula" alt="Repositórios por linguagem" />
