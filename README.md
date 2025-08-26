@@ -1,68 +1,80 @@
 <h1 align="center">👋 Olá, eu sou o Bruno!</h1>
-<h2 align="center">Desenvolvedor Full Stack apaixonado por tecnologia</h2>
-
-<div style="text-align: center;">
-  <div style="text-align: center;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-white?style=flat&color=111827" alt="Shadcn/UI" />
-  <img src="https://img.shields.io/badge/Lucide_Icons-F56565?style=flat" alt="Lucide Icons" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=000000" alt="Prettier" />
-</div>
-</div>
-
----
-
-<h2>🛠 Tech Stack</h2>
-
-<h3>💻 Front-end</h3>
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **TypeScript**
-- **React**
-- **React Native**
-- **Next.js**
-
-<h3>⚙️ Back-end e banco de dados</h3>
-
-- **Node.js**
-- **MongoDB**
-- **MySQL**
-- **PostgreSQL**
-
----
-
-<h2>🚀 Sobre mim</h2>
-
-<p>
-  Sou um desenvolvedor full stack com experiência em construir aplicações web e móveis escaláveis. Tenho paixão por aprender novas tecnologias e melhorar continuamente minhas habilidades.
-</p>
-
----
-
-<h2>📊 Estatísticas do GitHub</h2>
+<h2 align="center">Desenvolvedor Full Stack apaixonado por tecnologia 🚀</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunoxd23&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunoxd23&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunoxd23&theme=dracula" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-monteiro-52b174255/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Monteiro-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:monteiro_100@outlook.pt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-monteiro_100@outlook.pt-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Brunoxd23&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-<h2>📫 Entre em contato</h2>
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bruno-monteiro-52b174255/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:monteiro_100@outlook.pt" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,mongodb,mysql,postgres,tailwind,eslint,prettier" />
+  <br/>
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-white?style=flat-square&color=111827" alt="Shadcn/UI" />
+  <img src="https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square" alt="Lucide Icons" />
 </p>
+
+<details>
+  <summary><b>💻 Front-end</b></summary>
+  <ul>
+    <li>HTML, CSS, JavaScript, TypeScript</li>
+    <li>React, React Native, Next.js</li>
+    <li>Tailwind CSS, Shadcn/UI, Lucide Icons</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⚙️ Back-end & Bancos de Dados</b></summary>
+  <ul>
+    <li>Node.js</li>
+    <li>MongoDB, MySQL, PostgreSQL</li>
+  </ul>
+</details>
+
+---
+
+## 🚀 Sobre mim
+
+Sou um desenvolvedor full stack com experiência em construir aplicações web e móveis escaláveis. Tenho paixão por aprender novas tecnologias, resolver problemas complexos e evoluir constantemente minhas habilidades. Sempre buscando desafios e projetos inovadores!
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunoxd23&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub de Bruno Monteiro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoxd23&layout=compact&theme=dracula&count_private=true" alt="Linguagens mais usadas" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunoxd23&theme=dracula" alt="Resumo do perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunoxd23&theme=dracula" alt="Linguagem com mais commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunoxd23&theme=dracula" alt="Repositórios por linguagem" />
+</p>
+
+---
+
+## 📫 Entre em contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-monteiro-52b174255/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:monteiro_100@outlook.pt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><b>Obrigado pela visita! 🚀</b></p>
