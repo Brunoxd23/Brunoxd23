@@ -53,8 +53,9 @@
 <h2>📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunoxd23&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Bruno Monteiro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoxd23&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunoxd23&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunoxd23&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunoxd23&theme=dracula" />
 </p>
 
 ---
