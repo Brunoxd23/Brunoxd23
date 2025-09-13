@@ -3,8 +3,8 @@
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3o6gE5aYp6bP7Wl5So/giphy.gif" 
-    alt="Homem digitando rápido" 
+    src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
+    alt="Homem digitando no computador"
     width="100%" 
     height="350px" 
     style="max-width:600px; border-radius:18px; box-shadow: 0 8px 32px rgba(0,0,0,0.25); margin: 0 auto;" 
@@ -70,4 +70,4 @@ Sou um desenvolvedor full stack com experiência em construir aplicações web e
 
 ---
 
-<p align="center"><b>Obrigado pela visita! 🚀</b></p>
+<p align="center"><b>Obrigado pela visita! 🚀</b></p>.
