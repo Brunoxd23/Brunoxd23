@@ -6,6 +6,7 @@
     src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
     alt="Pixel art dev programando"
     width="100%" 
+    height="200em"
     style="max-width:700px; border-radius:18px; box-shadow: 0 8px 32px rgba(0,0,0,0.25); margin: 0 auto;" 
   />
 </p>
