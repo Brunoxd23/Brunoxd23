@@ -3,10 +3,11 @@
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Coding animation" 
+    src="https://media.giphy.com/media/3o6gE5aYp6bP7Wl5So/giphy.gif" 
+    alt="Homem digitando rápido" 
     width="100%" 
-    style="display: block; margin: 0 auto; max-width: 700px; border-radius: 12px; box-shadow: 0 4px 32px rgba(0,0,0,0.15);" 
+    height="350px" 
+    style="max-width:600px; border-radius:18px; box-shadow: 0 8px 32px rgba(0,0,0,0.25); margin: 0 auto;" 
   />
 </p>
 
@@ -42,7 +43,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor full stack com experiência em construir aplicações web e móveis escaláveis. Tenho paixão por aprender novas tecnologias, resolver problemas complexos e evoluir constantemente minhas habilidades. Sempre buscando desafios e projetos inovadores!
+Sou um desenvolvedor full stack com experiência em construir aplicações web e móveis escaláveis. Tenho paixão por aprender novas tecnologias, resolver problemas complexos e evoluir constantemente.
 
 ---
 
