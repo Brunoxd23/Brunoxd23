@@ -2,17 +2,12 @@
 <h2 align="center">Desenvolvedor Full Stack apaixonado por tecnologia 🚀</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-monteiro-52b174255/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Monteiro-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:monteiro_100@outlook.pt" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-monteiro_100@outlook.pt-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Brunoxd23&style=flat-square" alt="Profile Views" />
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="Coding animation" 
+    width="100%" 
+    style="display: block; margin: 0 auto; max-width: 700px; border-radius: 12px; box-shadow: 0 4px 32px rgba(0,0,0,0.15);" 
+  />
 </p>
 
 ---
